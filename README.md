@@ -48,6 +48,9 @@ This dataset contains information related to rental properties across various Ca
 
 You can download the dataset [here](https://github.com/remy-nguyen-binh/Canada-Rental-Property-Management-Analysis/blob/main/canada_rental_property_management.csv)
 
+Link for the PowerPoint Presentation [here]([https://github.com/remy-nguyen-binh/Canada-Rental-Property-Management-Analysis/blob/main/canada_rental_property_management.csv](https://github.com/remy-nguyen-binh/Canada-Rental-Property-Management-Analysis/blob/main/Presentation%20-%20Rental%20Property%20Management%20Data%20Analysis.pptx)
+
+
 ## Data Insight
 
 ### Rental Price Trends
